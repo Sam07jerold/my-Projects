@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>paragraph Example</title>
+    </head>
+    <body>
+        <h1>paragraph in HTML</h1>
+
+        <p>This is the first paragraph. paragraph are wirtten using the <code>&1t;p&gt;</code> tag.</p>
+
+        <p>
+            This is second paragraph. Each strats on a new line automatically.</p>
+
+            <p>You can write as many paragraphs as you like . HTML makes it easy to organize text content.</p>
+    </body>   
+    
+</html>
